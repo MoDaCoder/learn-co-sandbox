@@ -1,0 +1,8 @@
+#Static (hard coded) bites
+
+#Dynamic is able to adapt to change or progress
+
+#method name      #parameter
+def greeting_a_person(name)
+  "Hello #{name}"
+end
